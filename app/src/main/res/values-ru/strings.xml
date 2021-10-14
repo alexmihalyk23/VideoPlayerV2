@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="audio">Аудио</string>
+    <string name="pause">Пауза</string>
+</resources>
